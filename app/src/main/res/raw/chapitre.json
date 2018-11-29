@@ -1,0 +1,16 @@
+{
+  "chapitres":[
+    {"name": "intro",
+      "seek": 0},
+    {"name": "title",
+      "seek": 100},
+    {"name": "butterflies",
+      "seek": 200},
+    {"name": "assault",
+      "seek": 300},
+    {"name": "payback",
+      "seek": 400},
+    {"name": "cast",
+      "seek": 500}
+  ]
+}
